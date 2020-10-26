@@ -1,0 +1,18 @@
+{
+  "name": "co2emissioncal",
+  "version": "1.0.0",
+  "description": "CO2 emission calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Gnana Allan Whinney GnanaPragasam",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^6.1.0",
+    "jasmine-node": "^3.0.0"
+  },
+  "devDependencies": {
+    "jasmine": "^3.6.1"
+  }
+}
